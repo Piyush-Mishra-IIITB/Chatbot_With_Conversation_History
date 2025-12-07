@@ -1,0 +1,1 @@
+This project implements an intelligent chatbot capable of maintaining conversation history and generating context-aware responses. It is built using LangChain, which provides a standardized interface for LLMs, prompt management, and memory modules. The chatbot supports continuous dialogue and stores previous user interactions to enhance contextual understanding.
